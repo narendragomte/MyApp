@@ -32,7 +32,7 @@ namespace sampleweb
             {
                 endpoints.MapGet("/", async context =>
                 {
-                    await context.Response.WriteAsync("Today' update Hello World! This response is generated from OCP. Auto deployment from gitops");
+                    await context.Response.WriteAsync("Today's update Hello World! This response is generated from OCP. Auto deployment from gitops");
                 });
             });
         }
