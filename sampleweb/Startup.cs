@@ -32,7 +32,7 @@ namespace sampleweb
             {
                 endpoints.MapGet("/", async context =>
                 {
-                    await context.Response.WriteAsync("  Hello World! This response is generated from OCP. Trying Auto build");
+                    await context.Response.WriteAsync("Hello World! This response is generated from OCP.");
                 });
             });
         }
