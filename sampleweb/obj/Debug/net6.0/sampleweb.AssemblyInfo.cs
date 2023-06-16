@@ -12,7 +12,6 @@ using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("sampleweb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
-[assembly: System.Reflection.AssemblyDescriptionAttribute("Red Hat OpenShift Dev Spaces - Universal Developer Image container")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("sampleweb")]

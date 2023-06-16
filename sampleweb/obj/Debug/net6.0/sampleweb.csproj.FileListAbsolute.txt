@@ -11,16 +11,11 @@
 /projects/myapp/sampleweb/obj/Debug/net6.0/sampleweb.AssemblyInfo.cs
 /projects/myapp/sampleweb/obj/Debug/net6.0/sampleweb.csproj.CoreCompileInputs.cache
 /projects/myapp/sampleweb/obj/Debug/net6.0/sampleweb.MvcApplicationPartsAssemblyInfo.cache
-/projects/myapp/sampleweb/obj/Debug/net6.0/staticwebassets/msbuild.sampleweb.Microsoft.AspNetCore.StaticWebAssets.props
-/projects/myapp/sampleweb/obj/Debug/net6.0/staticwebassets/msbuild.build.sampleweb.props
-/projects/myapp/sampleweb/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.sampleweb.props
-/projects/myapp/sampleweb/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.sampleweb.props
-/projects/myapp/sampleweb/obj/Debug/net6.0/staticwebassets.pack.json
 /projects/myapp/sampleweb/obj/Debug/net6.0/staticwebassets.build.json
 /projects/myapp/sampleweb/obj/Debug/net6.0/staticwebassets.development.json
 /projects/myapp/sampleweb/obj/Debug/net6.0/scopedcss/bundle/sampleweb.styles.css
 /projects/myapp/sampleweb/obj/Debug/net6.0/sampleweb.dll
-/projects/myapp/sampleweb/obj/Debug/net6.0/refint/sampleweb.dll
 /projects/myapp/sampleweb/obj/Debug/net6.0/sampleweb.pdb
 /projects/myapp/sampleweb/obj/Debug/net6.0/sampleweb.genruntimeconfig.cache
 /projects/myapp/sampleweb/obj/Debug/net6.0/ref/sampleweb.dll
+/projects/myapp/sampleweb/bin/Debug/net6.0/ref/sampleweb.dll

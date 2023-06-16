@@ -14,7 +14,9 @@ components:
     - -f
     - /dev/null
     endpoints:
-    - name: http-dotnet60
+    - exposure: public
+      name: http-dotnet60
+      protocol: https
       targetPort: 5001
     env:
     - name: CONFIGURATION

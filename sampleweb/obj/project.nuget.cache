@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JLShu0lT0LC6xfJdWjhijEuL8fRy9YdywpmcBwymn7mb1UctN2y/sK5q1T3GX19yB9V8OIIZGJeEL8/JBhPFjw==",
+  "dgSpecHash": "U/benj7Jqm4JDknrY5J+2Bu4FRcXMAS3eJfCQbdL31kJ1P34lG7C0fmzWSKZ9+1zPg35k7SPciMhuuTh78qp6g==",
   "success": true,
   "projectFilePath": "/projects/myapp/sampleweb/sampleweb.csproj",
-  "expectedPackageFiles": [
-    "/home/user/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.16/microsoft.netcore.app.host.linux-x64.6.0.16.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
